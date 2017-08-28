@@ -22,6 +22,7 @@ TODO: Add long description of the pod here.
                        DESC
 
   s.homepage         = 'https://github.com/Housl/MachLib'
+#http://www.cnblogs.com/brycezhang/p/4117180.html
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Housl' => '745824020@qq.com' }
