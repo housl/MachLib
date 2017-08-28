@@ -1,0 +1,27 @@
+{
+  "name": "MachLib",
+  "version": "0.1.0",
+  "summary": "MachLib. 是一个开发者的私有工具类库",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Housl/MachLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Housl": "745824020@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Housl/MachLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MachLib/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
+}

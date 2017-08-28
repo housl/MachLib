@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MachLib_Example' do
+  pod 'MachLib', :path => '../'
+
+  target 'MachLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
