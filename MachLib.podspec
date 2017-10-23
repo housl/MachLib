@@ -31,8 +31,14 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'MachLib/Classes/**/*'
-  
+#   s.source_files = 'MachLib/Classes/**/*'
+
+
+#    s.source_files = 'MachLib/Classes/**/*'
+
+s.ios.vendored_framework   = 'MachLib-0.1.0/ios/MachLib.framework'
+
+
   # s.resource_bundles = {
   #   'MachLib' => ['MachLib/Assets/*.png']
   # }

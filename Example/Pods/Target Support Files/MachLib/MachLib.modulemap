@@ -1,6 +1,0 @@
-framework module MachLib {
-  umbrella header "MachLib-umbrella.h"
-
-  export *
-  module * { export * }
-}

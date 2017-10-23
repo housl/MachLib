@@ -1,5 +1,8 @@
 use_frameworks!
 
+def PodTest1
+end
+
 target 'MachLib_Example' do
   pod 'MachLib', :path => '../'
 
@@ -9,3 +12,16 @@ target 'MachLib_Example' do
     
   end
 end
+
+
+
+#其他项目引用：
+#platform :ios, '9.0'
+#
+#source 'https://github.com/housl/MachRepos.git'
+#source 'https://github.com/CocoaPods/Specs.git’
+#
+#target 'CarPrice' do
+#    #    pod 'MachLib'
+#    pod 'MachLib', :path => '/Users/machou/gitDir/MachLib/'
+#end

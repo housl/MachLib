@@ -9,11 +9,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>MachLib.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods-MachLib_Example.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -32,12 +27,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>59F63044BFC2982E750A70953496A46E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>707DFCDFC9584C3AAD0B5A67F41122B0</key>
+		<key>3359C9CB3FB041945BCC2F1507276E9A</key>
 		<dict>
 			<key>primary</key>
 			<true/>

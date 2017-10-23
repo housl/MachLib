@@ -18,7 +18,9 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "MachLib/Classes/**/*",
+  "ios": {
+    "vendored_frameworks": "MachLib-0.1.0/ios/MachLib.framework"
+  },
   "dependencies": {
     "AFNetworking": [
       "~> 2.3"
